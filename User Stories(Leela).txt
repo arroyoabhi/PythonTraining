@@ -1,0 +1,53 @@
+User Stories:
+
+Task-1
+
+Story--Adding Two Arrays in 2 Ways.
+
+Description :--As a python developer,I have to add two arrays i.e.,
+
+                       1.Add 2 arrays in to one list.
+                       2.Another Way is i have to add 1st element of first array and first element of second element,like we have to add all elements in that 2arrays into separate lists.
+
+Acceptance Criteria :
+                  1.Using python code we have to add two arrays in one list.
+                  2.Using the code,we have to merge the first array and second array in to list.
+
+
+Task-2
+
+Story--Finding array values and Alternate values of an array.
+
+Description :--As a python developer,i have to print 3rd value from 2nd value to 6th value and i have to find alternate values of an array.
+
+Acceptance Criteria :
+                 1. Have to find 3rd value from 2nd value to 6th value and we have to print the 3rd value from that values 2to6.
+                 2. Have to finds alternate values of an array using some functions and to print that alternate values.
+
+
+Task-3   
+
+Story--Find,Count,Replace Missing values.
+
+Description :--As a python developer,i have find the missing letters from the given data,i have to count the missing letters and i have to replace that missing letters with 0,nan.
+
+Acceptance Criteria :--
+                 1.Using python code have to find missing letters from the data.
+                 2.Using the code have to count all the missing letters from the data.
+                 3.Using the code have to replace all the missing letters from the data with 0,nan..
+
+Task-4
+
+Story--Bar Map
+
+Description :--A bar plot shows catergory data as rectangular bars with the height of bars proportional to the value they represent. It is often used to compare between values of different categories in the data.
+               A categorical data is nothing but a grouping of data into different logical groups.
+               for example, data on the heights may be represented as ‘Tall’, ‘Medium’, ‘Short’ ...
+               And also can plot bar graphs using colors.
+
+Acceptance Criteria :--
+                  1.Using code we have to plot a simple bar that represent the data.
+                  2.Using code we can plot the grouped bars i.e., it will group the elements and represent that grouped bars.
+                  3.Using code we can plot the stacked bars i.e., it will stack the elements and show the data with in the given axis.
+ 
+        
