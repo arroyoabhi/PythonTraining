@@ -36,3 +36,16 @@ Acceptance Criteria ::
 3. Using the code, group the total sales by each category.
 4. Fetch the most profitable segment of customers.
 
+
+Task_4 :
+
+Story - HeatMap
+
+Description :- As a python developer, I would like to write a python code to plot a Heatmap, so that I can correlate the data.
+
+
+Acceptance Criteria :: 
+1. using python, create a heatmap representation of data.
+2. draw a correlation between the data on the heatmap.
+
+
