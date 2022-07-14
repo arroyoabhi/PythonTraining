@@ -1,0 +1,69 @@
+USER STORIES
+
+
+TASK-1
+
+Story: 
+Data Frames and Functions
+
+Description/Target:
+As a Python developer, I would like to describe the table using data frame in pandas and complete the given queries and print the output in Jupyter notebook.
+
+
+Acceptance Criteria:
+
+a) Describe or convert the given array into data frame table with 2columns and 8rows using pandas.
+b) From the data frame, print the first 5 rows using the head() function.
+c) Printing the last 5 rows from Data frame using the tail() function.
+d) From the data frame print the first 6 rows.
+e) Printing the sales data in the data frame where the sales is less than 200.
+f) Finding the Sum and Average of sales from the given data frame.
+g) From the data frame finding the sum of prices.
+
+TASK-2
+
+Story:
+Numpy Array
+
+Description/ Target:
+As a Python developer, I should be able to read the array using numpy module, complete the given queries and print the output in Jupyter Notebook.
+
+Acceptance Criteria:
+
+a) Read the array
+b) Using the numpy module, I should print the first 4 values from the given array.
+c) From the given array print the values from 2nd to 5th position using index.
+
+
+
+TASK-3
+
+Story: 
+File Handling (Store CSV file)
+
+Description/Target:
+As a Python developer, I want to read the given CSV file (store) using the pandas, numpy module and add different new columns and print the output in Jupyter Notebook.
+
+Acceptance Criteria:
+
+a) Reading the given CSV file by importing numpy, pandas.
+b) In the given CSV file add new column of cost, using sales and profit column and print the new csv file(store).
+c) Adding new column of Final, to check the profit using where condition if profit is greater than 500 print Yes, if it is less print No.
+d) Printing the new CSV file with 2 new columns added to the file.
+
+
+
+TASK-4
+
+Story:
+Donut chart
+
+Description/Target:
+As a Python Developer, I want to write a python code using numpy and matplotlib modules and plot a donut chart to display the data in graphical format for easy analysis and show the chart in Jupyter Notebook.
+
+
+Acceptance Criteria:
+
+a) Plot a donut chart with simple random data and default colors.
+b) Using the given data, plot a donut chart to find the number of students per subject.
+c) Plotting a donut chart of particular column (Duration) by reading CSV file i.e,data.csv and analyse the different durations from the chart.
