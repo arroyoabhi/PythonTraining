@@ -1,0 +1,38 @@
+User Stories :
+
+Task_1 :
+
+Story - Passage Reading
+
+Description :- As a python developer, I would like to search through the passage using python code so that I can fetch the number of times "Python" is used in the passage, the number of upper-case letters in the passage, and to list the numbers mentioned in the passage.
+
+Acceptance Criteria :: 
+1. Using Python code we have to read the passage.
+2. Using the code, count the number of times the word "Python" appears in the passage.
+3. Count the number of words with capital letters.
+4. Using the code, count and push the numbers from the passage into an array.
+
+
+Task_2 :
+
+Story - Array to Matrix
+
+Description :- As a Python developer, I would like to write a code to read the array so that it can be displayed into an 4x3 matrix and also sort the elements in the array
+
+Acceptance Criteria :: 
+1. Using python code, I would like to read an array and reshape the data to be displayed in a 4x3 matrix format.
+2. Using the code, sort the data in the array.
+
+
+Task_3 :
+
+Story - Aggregation of data
+
+Description :- As a python developer, I would like to write a python code to read the provided data so that I can find the average quantity of goods sold by region, total sales by categories and segment the customers by profits acquired
+
+Acceptance Criteria :: 
+1. Write a python code to read the provided data. 
+2. Using the code, group the average quantity of items sold by region.
+3. Using the code, group the total sales by each category.
+4. Fetch the most profitable segment of customers.
+
