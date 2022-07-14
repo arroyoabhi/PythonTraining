@@ -32,5 +32,5 @@ Acceptance Criteria: 1. We should read a CSV file.
 
 Description: AS A Python Developer, I WANT to plot a piechart, SO THAT i can analyse the values in the particular columns.
 
-Acceptance Criteria: 1. Read the data that must analysed.
+Acceptance Criteria: 1. Read the data that must be analysed.
                                           2. Plot a piechart using the data. 
