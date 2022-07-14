@@ -72,11 +72,11 @@ Description :
             AS A student, I WANT to have a login functionality. SO THAT, i can successfully login and use school management software.
 
 Scope :
-       Build a login Page
-       Student Validation
-       Student should be able to change the password
-       It should work in all the browsers
-       It should also work in mobile
+       * Build a login Page
+       * Student Validation
+       * Student should be able to change the password
+       * It should work in all the browsers
+       * It should also work in mobile
 
 Pre-Condition :
 
