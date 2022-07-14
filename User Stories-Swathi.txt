@@ -7,7 +7,7 @@ Story:
 Data Frames and Functions
 
 Description/Target:
-As a Python developer, I would like to describe the table using data frame in pandas and complete the given queries and print the output in Jupyter notebook.
+AS A Python developer, I would like to describe the table using data frame in pandas and complete the given queries and print the output in Jupyter notebook.
 
 
 Acceptance Criteria:
@@ -26,7 +26,7 @@ Story:
 Numpy Array
 
 Description/ Target:
-As a Python developer, I should be able to read the array using numpy module, complete the given queries and print the output in Jupyter Notebook.
+AS A Python developer, I should be able to read the array using numpy module, complete the given queries and print the output in Jupyter Notebook.
 
 Acceptance Criteria:
 
@@ -42,7 +42,7 @@ Story:
 File Handling (Store CSV file)
 
 Description/Target:
-As a Python developer, I want to read the given CSV file (store) using the pandas, numpy module and add different new columns and print the output in Jupyter Notebook.
+AS A Python developer, I want to read the given CSV file (store) using the pandas, numpy module and add different new columns and print the output in Jupyter Notebook.
 
 Acceptance Criteria:
 
@@ -59,7 +59,7 @@ Story:
 Donut chart
 
 Description/Target:
-As a Python Developer, I want to write a python code using numpy and matplotlib modules and plot a donut chart to display the data in graphical format for easy analysis and show the chart in Jupyter Notebook.
+AS A Python Developer, I want to write a python code using numpy and matplotlib modules and plot a donut chart to display the data in graphical format for easy analysis and show the chart in Jupyter Notebook.
 
 
 Acceptance Criteria:
