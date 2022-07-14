@@ -1,0 +1,107 @@
+User Story
+
+Task-1 : Find the Employee Income
+
+Description :
+             AS A Python Developer, I WANT to read the employee data. SO THAT, i can find the second employee income and print that employee income in the jupyter Notebook.
+
+Acceptance Criteria:
+                    1) Give a set of employee details to a variable
+                    2) Select the any one of the employee key value and the employee income
+                    3) Print the employee income
+
+
+
+Task-2 : Finding the Even Index
+
+Description :
+             AS A Python Developer, I WANT to create one numpy array. SO THAT, i can find the even index position and the result should be visible in jupyter Notebook.
+
+Acceptance Criteria:
+                    1) Import the numpy as np
+                    2) Assign the list of array to the variable
+                    3) By using 'where' command and do the even operation
+                    4) Print the result of that even index position
+
+Task-3 : Filtering Data
+
+Description:
+            AS A Python Developer, I WANT to read csv file and count the record and that quantity in the east region. SO THAT, i can find how many records sold and the total quantity in east region.
+
+Acceptance Criteria:    For count the records sold
+                    1) Read csv file and assign to a dataframe
+                    2) Take the region from the dataframe
+                    3) Count the records sold in the east region
+                    4) Print how many records are count in the east region
+
+                        For the total quantity sold
+                    1) Read the csv file and assign to a dataframe
+                    2) Sum the quantity in the dataframe
+                    3) Print the total quantity sold in the east region
+
+Task-4 : Sorting Data
+
+Description:
+            AS A Python Developer, I WANT to read csv file and sort the south region in the csv file and customer ID. SO THAT, i can print one column in descending order and the customer ID.
+
+Acceptance Criteria:
+                    1) We should read a csv file
+                    2) Sort the values of any column
+                    3) And then do descending order of that column
+                    4) Take the dataframe of a particular column
+                    5) Print the sort values and the customer ID
+
+Task-5 : Scatter Plot
+
+Description:
+            AS A Python Developer, I WANT to plot a scatter plot. SO THAT, i can analyze the values of x and y axis.
+
+Acceptance Criteria:
+                    1) First import the matplotlib
+                    2) Take the x and y axis with same range of values
+                    3) Indicate one with a color and other without color
+                    4) Use alpha and legend function
+                    5) Compare the 2 scatter plot
+                    6) Add the marker to that scatter plot
+                    7) Display the output of that scatter plot
+
+
+ ----Sample User Story for student Login----
+
+Description :
+            AS A student, I WANT to have a login functionality. SO THAT, i can successfully login and use school management software.
+
+Scope :
+       Build a login Page
+       Student Validation
+       Student should be able to change the password
+       It should work in all the browsers
+       It should also work in mobile
+
+Pre-Condition :
+
+Student should have registered in school management software
+
+Acceptance Criteria:
+
+Scenario-1: User can successfully Login
+'Given' i am on Login Page
+'And' i give valid username and password
+'And' i click on Sign In
+'Then' i will successfully Login In
+
+Scenario-2: Student cannot Login Successfully
+'Given' i am a Login Page
+'And' i give In-valid Username and Password
+'And' i click on Sign In
+'Then' i will get error message and 'Login Failed, Invalid username and Password'
+
+Scenario-3: Student can reset password
+'Given' i am on Login Page
+'And' i click on forgot password
+'And' i will receive a Reset password Link to Email ID
+'And' i follow the link and provide new password
+'And' i click on Reset Button
+'And' new password will be set
+'And' i provide username and new password and click on Sign In
+'Then' i should Login Successfully
