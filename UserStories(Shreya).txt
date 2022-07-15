@@ -6,8 +6,8 @@ Description: AS A Python Developer, I WANT to read both the given arrays, SO THA
 the resultent array should be multiplied with 2. The result should be visible in jupyter notebook. 
 
 Acceptance Criteria: 1. we should read two arrays.
-                                          2. The two arrays should be added.
-                                          3. The each element from the resultent array should be multiplied with two.
+                     2. The two arrays should be added.
+                     3. The each element from the resultent array should be multiplied with two.
 
 2.) Story - Printing specific values from a list.(Task-2)
 
@@ -15,8 +15,8 @@ Description: AS A Python Developer, I WANT to read an array, SO THAT i can print
 any given array in jupyter notebook.
 
 Acceptance Criteria: 1. We should read an array.
-                                          2. Last 4 values from the array should be printed.
-                                          3. 2nd and 3rd values from the end of the array should be printed.
+                     2. Last 4 values from the array should be printed.
+                     3. 2nd and 3rd values from the end of the array should be printed.
 
 3.) Story - Handling dates.(Task-3)
 
@@ -25,12 +25,12 @@ from the time of placing the order, SO THAT I can find the number of times an or
 placing the order.
 
 Acceptance Criteria: 1. We should read a CSV file.
-                                          2. Then find the number of days taken for a product to be shipped from the time of placing the order.
-                                          3. Later find the number of times an order took more than 5 days to be shipped from the time of placing the order.
+                     2. Then find the number of days taken for a product to be shipped from the time of placing the order.
+                     3. Later find the number of times an order took more than 5 days to be shipped from the time of placing the order.
 
 4.) Story - PieChart.(Task-4)
 
 Description: AS A Python Developer, I WANT to plot a piechart, SO THAT i can analyse the values in the particular columns.
 
 Acceptance Criteria: 1. Read the data that must be analysed.
-                                          2. Plot a piechart using the data. 
+                     2. Plot a piechart using the data. 
